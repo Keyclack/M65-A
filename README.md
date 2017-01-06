@@ -2,6 +2,10 @@
 
 M65-A MADE WITH RAMA from RAMA.WORKS
 
+Reference Links:
+  - https://rama.works/#/m65a/
+  - https://geekhack.org/index.php?topic=85629.new;topicseen#new
+
 Included Files:
   - M65-A Plate DWG
   - M65-A PCB DXF
